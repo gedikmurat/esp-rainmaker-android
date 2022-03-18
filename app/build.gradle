@@ -41,6 +41,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
+        compileSdkVersion 30
         applicationId "com.espressif.rainmaker"
         minSdkVersion 23
         targetSdkVersion 30
